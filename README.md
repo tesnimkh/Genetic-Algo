@@ -17,9 +17,6 @@ Usage
     Open a terminal or command prompt and navigate to the project directory.
 
     Run the following command to execute the code:
-
-    bash
-
     python knapsack_genetic_algorithm.py
 
     The program will output the best solution and fitness at the end, as well as display a plot showing the progress of the best fitness over generations.
