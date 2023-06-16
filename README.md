@@ -45,10 +45,7 @@ The knapsack_genetic_algorithm.py file contains the implementation of the geneti
         The best fitness of each generation is stored and plotted.
         Finally, the best solution and fitness are printed.
 
-License
 
-This project is licensed under the MIT License.
-Acknowledgments
 
 This code is based on the concept of genetic algorithms and the Knapsack Problem. Special thanks to the authors and contributors of the relevant literature and resources.
 References
